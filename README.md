@@ -2,4 +2,4 @@ MyProyecto
 ==========
 
 Breve descripcion del proyecto y lo que se quiera lograr.
-Proyecto 1
+Proyecto web
